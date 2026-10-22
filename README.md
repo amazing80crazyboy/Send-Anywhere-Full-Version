@@ -239,4 +239,4 @@ This repository serves as the official landing page for Send Anywhere. The softw
 **Get the most recent version of Send Anywhere today!**
 
 ---
-**Last updated:** 2026-10-22 10:59:21 UTC
+**Last updated:** 2026-10-22 15:50:01 UTC
